@@ -23,10 +23,6 @@
 * [Pod Hardware](specifications/pod-hardware.md)
 * [Widget Speed Tests](specifications/widget-speed-tests.md)
 
-***
-
-* [Pod Speed Tests](pod-speed-tests.md)
-
 ## Integrations
 
 * [Broadband Layers in ArcGIS](integrations/broadband-layers-in-arcgis.md)
